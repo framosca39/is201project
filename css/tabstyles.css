@@ -1,0 +1,24 @@
+p{font-weight: bold;
+    font-size: 20px;}
+    
+    #top{text-decoration: underline;
+    font-weight: bold;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+    .emphasizedText{font-style: italic;
+    color:rgb(213, 14, 53);}
+    
+    body{
+        background-color: rgb(160, 192, 244);
+        font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+        border: 5px solid rgb(83, 7, 4);
+        margin: 30px;
+        padding: 20px;
+        text-align: left;
+    }
+    
+    ol{list-style-position: inside;
+        font-size:larger; 
+    }
+    ul{list-style-position: inside;
+    font-style: italic;}
